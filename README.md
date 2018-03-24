@@ -105,7 +105,7 @@ The student, on their own, is able to:
 - understand the concept of serialization
 - able to use Postman
 
-## Endpoint tests
+## [Endpoint tests](https://github.com/greenfox-academy/RedRiot/blob/master/week8/Exercise1/src/test/java/com/greenfoxacademy/demo/controller/RestControllerTest.java)
 
 - able to make difference between unit test and integration test
 - create endpoint test
