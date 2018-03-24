@@ -19,7 +19,7 @@ The student, on their own, is able to:
  -  Follow indentation and coding styleguides in their code
  -  Create variables and methods on a given specification
  -  Use conditions and loops:
-     -  Filtering
+     -  [Filtering] (https://github.com/greenfox-academy/RedRiot/blob/master/PracticeExam/Pallida-Trial/Odd_filter/src/OddFilter.java)
      -  Finding elements or index
      -  Generating lists
      -  Checking mutiple values and counting
