@@ -173,18 +173,6 @@ The student, on their own, is able to:
  -  Designing multiple screens
  -  Handling authorized communication with backend
 
-### DevOps
 
- -  Understanding the purpose of Docker containers
- -  Understanding the purpose and mechanism of monitoring tools
- -  AWS
-     -  Difference between EC2 and EBS
-     -  Purpose of S3
 
-### Frontend
 
- -  Understanding frontend framework:
-     -  Components, configuration, dependencies, extensions, routing
-     -  Reusable components and screen parts
- -  Rich DOM manipulation
- -  Handle Authentication
