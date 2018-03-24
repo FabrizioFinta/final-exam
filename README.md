@@ -24,7 +24,7 @@ The student, on their own, is able to:
      -  [Generating lists](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/service/KalendarService.java)
      -  Checking mutiple values and counting
      -  [Maping values](https://github.com/greenfox-academy/RedRiot/blob/master/week-02/day-03/Hashmap/StudentCounter/src/studentcounter.java)
- -  [Use object orientation:](https://github.com/RedRiot/corsac-basic-exam/tree/master/bank-accounts/bank-account/src)
+ -  [Use object orientation:](https://github.com/greenfox-academy/RedRiot/tree/master/week4/day-02/Garden/src)
      -  Create and inherit classes including fields and methods on a given specification
      -  Understanding the difference between classes and objects
      -  Instantiating and using objects
