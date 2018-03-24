@@ -21,10 +21,10 @@ The student, on their own, is able to:
  -  Use conditions and loops:
      -  [Filtering](https://github.com/greenfox-academy/RedRiot/blob/master/PracticeExam/Pallida-Trial/Odd_filter/src/OddFilter.java)
      -  Finding elements or index
-     -  Generating lists
+     -  [Generating lists](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/service/KalendarService.java)
      -  Checking mutiple values and counting
-     -  Maping values
- -  Use object orientation:
+     -  [Maping values](https://github.com/greenfox-academy/RedRiot/blob/master/week-02/day-03/Hashmap/StudentCounter/src/studentcounter.java)
+ -  [Use object orientation:](https://github.com/RedRiot/corsac-basic-exam/tree/master/bank-accounts/bank-account/src)
      -  Create and inherit classes including fields and methods on a given specification
      -  Understanding the difference between classes and objects
      -  Instantiating and using objects
@@ -32,7 +32,7 @@ The student, on their own, is able to:
  -  Handle errors and exceptions
  -  Determine the output of expressions
  -  Explain their own code
- -  Write unit tests for functions and methods
+ -  [Write unit tests for functions and methods](https://github.com/RedRiot/corsac-basic-exam/blob/master/mutual-elements/mutualElements/Test/MutualElementsTest.java)
  
  # Backend Orientation Exam Competencies
 
@@ -42,7 +42,7 @@ The student, on their own, is able to:
 - understanding the difference between interfaces and abstract classes
 - understand when to use interface and when to use super class
 
-## Queries
+## [Queries](https://github.com/greenfox-academy/RedRiot/blob/master/carplate/src/main/java/car/demo/repository/LicenceRepository.java)
 
 - usage of language integrated quaries e.g. LINQ/StreamApi
 - understanding the syntax
@@ -59,7 +59,7 @@ The student, on their own, is able to:
 - able to add and use libraries
 - find documentation and usage examples
 
-## Backend Framework
+## [Backend Framework](https://github.com/greenfox-academy/RedRiot/tree/master/week8/InventoryManagementSystem/InventorySystem/src/main/java/com/greenfoxacademy/demo)
 
 - creating a Web Application with the given backend framework e.g. Spring/ASP.Net Core
 - understanding the used components
@@ -98,7 +98,7 @@ The student, on their own, is able to:
 - body
 - templates
 
-### REST Web backend
+### [REST Web backend](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/controllers/KalendarController.java)
 
 - understand what is an API and can use it
 - use JSON objects
@@ -133,7 +133,7 @@ The student, on their own, is able to:
      -  Split bigger functions to smaller ones
      -  Separate functionalities to different files
      -  Point out code smells
- -  Understand base concept of hosting
+ -  [Understand base concept of hosting](https://limitless-inlet-22519.herokuapp.com/todo/)
  -  Deployment and continuous integration
  -  Using design patterns
  -  Integration testing
@@ -142,7 +142,7 @@ The student, on their own, is able to:
 
 **Choose one from below:**
 
-### Backend
+### [Backend](https://github.com/greenfox-academy/huli-kalendaryo-backend)
 
  -  Use async structures:
      -  Writing functions that are taking and calling callbacks
@@ -164,7 +164,7 @@ The student, on their own, is able to:
      -  Components, configuration, dependencies, extensions
      -  Handle Authentication
 
-### Mobile
+### [Mobile](https://github.com/greenfox-academy/huli-kalendaryo-android/tree/dev/app/src/main/java/com/greenfox/kalendaryo)
 
  -  Use async structures:
      -  Writing functions that are taking and calling callbacks
