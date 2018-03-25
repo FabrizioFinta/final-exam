@@ -32,7 +32,7 @@ The student, on their own, is able to:
  -  Handle errors and exceptions
  -  Determine the output of expressions
  -  Explain their own code
- -  [Write unit tests for functions and methods](https://github.com/RedRiot/corsac-basic-exam/blob/master/mutual-elements/mutualElements/Test/MutualElementsTest.java)
+ -  [Write unit tests for functions and methods](https://github.com/greenfox-academy/RedRiot/blob/master/week6/Day-03/Anagram/test/AnagramTest.java)
  
  # Backend Orientation Exam Competencies
 
